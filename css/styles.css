@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+label{
+    font-weight: bold;
+    font-size: 18px;
+}
+.stage{
+    padding:0;
+    margin-left:32%;
+    margin-top: 10px;
+}
+.score{
+    margin-left: 32%;
+    color:white;
+}
+.level{
+    margin-left: 25%;
+    color: white;
+}
+#score{
+    color: red;
+    
+}
+#level{
+    color: red;
+}
+.snake{
+    margin-left: 37%;
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.snake li {
+    display: inline-block;
+    list-style: none;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 60px;
+}
